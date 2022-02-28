@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true account of the proceedings at the sessions, holden at the sessions-house in the Old-Bayly: for the city of London, county of Middlesex, and goal-delivery of Newgate Which began on the 24th of this instant Feb. and ended on the 25th of the said instant. Containing the tryals of several notorious murtherers, fellons, and burglarers, but especially of George Pie, for killing the butcher in Hungerford-Market. Together, with the names of such as were condemned, the number of those burnt in the hand, to be transported, and whip'd: with many other passages that happened during this remarkable session.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94884</idno>
+            <idno type="STC">Wing T2392C</idno>
+            <idno type="STC">ESTC R229701</idno>
+            <idno type="EEBO-CITATION">99899246</idno>
+            <idno type="PROQUEST">99899246</idno>
+            <idno type="VID">152747</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94884)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152747)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2318:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true account of the proceedings at the sessions, holden at the sessions-house in the Old-Bayly: for the city of London, county of Middlesex, and goal-delivery of Newgate Which began on the 24th of this instant Feb. and ended on the 25th of the said instant. Containing the tryals of several notorious murtherers, fellons, and burglarers, but especially of George Pie, for killing the butcher in Hungerford-Market. Together, with the names of such as were condemned, the number of those burnt in the hand, to be transported, and whip'd: with many other passages that happened during this remarkable session.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T: Benskin, in St. Brides-Church Yard,</publisher>
+                  <pubPlace>[(London)] :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152747:1" rendition="simple:additions"/>
+            <p>THE True Account OF THE <hi>Proceedings at the Seſſions.</hi> Holden at the Seſsions-Houſe IN THE OLD-BAYLY: FOR THE City of <hi>London,</hi> County of <hi>Middleſex,</hi> and Goal-Delivery of <hi>Newgate.</hi> Which began on the 24th of this Inſtant <hi>Feb.</hi> and ended on the 25th of the ſaid Inſtant. CONTAINING THE TRYALS Of ſeveral <hi>Notorious Murtherers, Fellons,</hi> and <hi>Burglarers,</hi> but eſpecially of George Pie, <hi>For Killing the Butcher in</hi> Hungerford-Market. TOGETHER, With the Names of ſuch as were <hi>Condemned,</hi> the num<g ref="char:EOLhyphen"/>ber of thoſe <hi>Burnt</hi> in the <hi>Hand,</hi> to be <hi>Tranſported,</hi> and <hi>Whip'd: With many other Paſſages that happened during this</hi> Remarkable Sesſion.</p>
+            <p>ON <hi>Fryday</hi> the 24th, the <hi>Seſſions</hi> of <hi>Oyer</hi> and <hi>Terminer,</hi> for the City of <hi>London,</hi> County of <hi>Middleſex,</hi> and Goal-Delivery of <hi>Newgate,</hi> be<g ref="char:EOLhyphen"/>gan at the Seſſions-Houſe in the <hi>Old-Bayly,</hi> where the proceedings againſt the ſeveral Criminals Indicted for <hi>Murther, Fellony, Burghlary,</hi> and other <hi>Miſdemeanours,</hi> were as followeth.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="2" facs="tcp:152747:2"/>
+            <p>
+               <hi>GEorge Pye,</hi> a Bayliffs Follower, was Indicted, Arraigned, and Tryed for killing <hi>Edward Green</hi> a Butcher, in <hi>Hungerford-Market,</hi> on the 11th of this Inſtant <hi>February;</hi> the manner (as appeared in Court upon Evi<g ref="char:EOLhyphen"/>dence) was as followeth: The Father of the Priſoner having a <hi>Mar<g ref="char:EOLhyphen"/>ſhals-Court-Writ</hi> to Arreſt the body of the deceaſed; he, together with the Pri<g ref="char:EOLhyphen"/>ſoner, came to him and gave him the word of Arreſt, upon which he catching up his Cleaver, bid them <hi>come at their peril,</hi> and in concluſion ſtruck at the Fa<g ref="char:EOLhyphen"/>ther of the Priſoner, and with a full blow cut his Wriſt almoſt through, of which wound he is ſince dead, then making at the Priſoner, cut two of his fin<g ref="char:EOLhyphen"/>gers almoſt off, upon which he having his Rapier drawn run him through the Body; after which he ſtill purſued him, and threw his Cleaver at him, and then fell down dead; but the Writ being produced in Court, and it appearing he was an Aſſiſtant to his Father in the Execution of his Office, he was acquit<g ref="char:EOLhyphen"/>ted.</p>
+            <p>
+               <hi>John Clarke,</hi> otherwiſe <hi>Maiden,</hi> a notorious offender, had Two Indictments preferred againſt him; the firſt for a Fellony committed on the 19th. of <hi>Jan.</hi> laſt, in ſtealing two Silver Tankards out of the Houſe of <hi>Margaret Winn,</hi> in <hi>White-Chappel; Viz.</hi> he with one of his Companions coming into the Houſe to drink, obſerved the Key of the Cup-board (as 'tis ſuppoſed) where the Proſe<g ref="char:EOLhyphen"/>cutor had lay'd it, and watching their opportunity, took out the Tankards, and locking it again, departed; but he abſolutely denying that he took any, and the Evidence not being poſitive, the Jury ſuppos'd that ſome one elſe might have been in the Room, and therefore Acquitted him of the Fellony: but upon an Indictment lay'd againſt him by <hi>Ann Bunfield,</hi> for breaking into her Houſe, and taking thence <hi>Watches, Spoons</hi> and <hi>Moneys,</hi> to the value of 20 pounds, he was found guilty, having been already Burnt in the Hand; and ſeveral times before in <hi>Newgate.</hi>
+            </p>
+            <p>
+               <hi>Robert Maſon</hi> was Indicted for Stealing <hi>Cocks, Hens,</hi> and other Fowl, to the value of Thirty Shillings, and upon proof that they were taken about him, he was found Guilty.</p>
+            <p>
+               <hi>James Smith</hi> was Indicted for Robbing his Maſter, one Mr. <hi>Wallis,</hi> a Victu<g ref="char:EOLhyphen"/>aller in Great St. <hi>Bartholomews,</hi> on the 11th of <hi>Octob.</hi> laſt, of 40 pounds in mo<g ref="char:EOLhyphen"/>ney and in Rings, and other things to the value of five pounds more, and then abſenting himſelf, upon ſearch after him, in <hi>London</hi> hired a Coach for 4 pounds to carry him and a Woman (that he had cauſed to run away from her Husband) to <hi>Marlborough,</hi> but being (upon notice had of their flight) purſued, they were over-taken <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Reading,</hi> and there carryed before the <hi>Mayor,</hi> who committed him, and upon ſearch 7 Guinneys were found ſticking in a Penny Loaf which the Womans Child had in its Pocket; being examined how he came by the mo<g ref="char:EOLhyphen"/>ney, he reply'd, <hi>It was left him by Friends;</hi> but not being able to prove it, the Jury brought him in Guilty.</p>
+            <p>
+               <hi>Peter Mardelue,</hi> a <hi>Dutchman,</hi> was Indicted for ſtealing a Tankard from <hi>John Gale,</hi> an the 28th of <hi>Jan.</hi> laſt; the proof againſt him, was, that he comming in<g ref="char:EOLhyphen"/>to the Proſecutors Houſe to drink, watched his opportunity and carryed it a<g ref="char:EOLhyphen"/>way; but being purſued, it was taken about him; for which (being evidently proved) he was found Guilty of the Fellony.</p>
+            <p>
+               <hi>Edward Coxhill</hi> and <hi>Henry Collet</hi> were Indicted and Tryed for ſtealing of Crape, to the value of Twenty Shillings, from one Mr. <hi>Benſon,</hi> at <hi>Dowgate;</hi> but they appearing to be Dyars Apprentices, and that the Stuff was loſt off the Float in the <hi>Thames,</hi> there being no poſitive proof that they had it, the Jury acquitted them.</p>
+            <pb n="3" facs="tcp:152747:2" rendition="simple:additions"/>
+            <p>
+               <hi>Edward Markham</hi> of <hi>Padington,</hi> was Indicted for Stealing ſeveral <hi>Chairs, Table-Linnen</hi> and <hi>Sheets,</hi> out of the Houſe of <hi>John Atley,</hi> which upon ſearch the proſecutor alledged he found in his Houſe, but the Priſoner pleaded <hi>that he bought them of the Proſecutors Daughter:</hi> ſo that he bringing Evidence that he had ſome of the Goods that were lay'd to his charge above half a Year be<g ref="char:EOLhyphen"/>fore he was taxed with the Fellony, he was acquitted.</p>
+            <p>
+               <hi>Alexander Younger</hi> was Indicted for that he under the pretence of a Com<g ref="char:EOLhyphen"/>miſſion from the Officers of the Cuſtomes, ſearching the Houſe of <hi>John De<g ref="char:EOLhyphen"/>nue</hi> for prohibited Goods, took thence Stones ſet in Silver, Buttons, Buc<g ref="char:EOLhyphen"/>kles, and a Silver Diamond, to the Value of Three pounds; for which, having Two Seſſions ſince had an Indictment for Fellony upon that occaſion, but that not being Evident, it was thought fit to prefer an Indictment of Treſpaſs againſt him, of which the Jury found him guilty.</p>
+            <p>
+               <hi>Rowland St. Johns,</hi> who the laſt Seſſions gave in Bail for the procuring his Pardon for Burning in the Hand, as being found Guilty of Man-ſlaughter for Killing Mr. <hi>Stile,</hi> brought his Pardon and pleaded it in Court, and after the u<g ref="char:EOLhyphen"/>ſual manner gave the Court Gloves.</p>
+            <p>
+               <hi>John Williams</hi> was Indicted for Robbing <hi>Francis Baſſet,</hi> on the 20th of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> laſt, of Goods to the value of Five pounds, but the proof not being plain againſt him, he was acquitted: As likewiſe <hi>Margaret Boile</hi> as being ac<g ref="char:EOLhyphen"/>ceſſary to a Robbery committed by <hi>John Clarke.</hi>
+            </p>
+            <p>
+               <hi>John Clarke</hi> was Indicted for Stealing a Silver Tankard from <hi>Thomas Green</hi> of St. <hi>Martins in the Fields,</hi> on the 18th of <hi>January</hi> laſt, the which he brought to the Houſe of one <hi>Margaret Boile,</hi> which occaſioned her to be Indicted as an Acceſſary before and after; but upon full Evidence the Fact being prov<g ref="char:EOLhyphen"/>ed upon the former, he was found Guilty; notwithſtanding he pleaded that his Companion ſtole it contrary to his knowledge.</p>
+            <p>
+               <hi>John Price</hi> was Arraigned and Indicted for breaking into an out-Shed, be<g ref="char:EOLhyphen"/>longing to <hi>James Bennits,</hi> and taking thence Goods to the value of Five or Six Shillings; to which Indictment he refuſed to plead by reaſon that the Court would not allow him to ſee his Accuſers before he pleaded Guilty or not Guilty; whereupon he was ordered to the Preſs, and after great pains taken by the Court to bring him to be obedient to the Law: In that caſe, he was doom'd to the Preſs, having the Sentence paſs'd upon him, and a ſtrict order given that he be Executed according to Law in that caſe made and pro<g ref="char:EOLhyphen"/>vided.</p>
+            <p>
+               <hi>Henry Couley</hi> was Indicted and Tryed for a Robbery committed upon <hi>Ma<g ref="char:EOLhyphen"/>ry Glaſcock</hi> upon the Kings High-way, <hi>vi et Armis</hi> of two Hoods, but the Rob<g ref="char:EOLhyphen"/>bery not being ſufficiently proved by reaſon of a Defect in the Evidence, he was acquitted.</p>
+            <p>A Woman was likewiſe Tryed for Marrying a ſecond Husband during the Life of the former, but the Evidence failing to prove the latter Marriage, ſhe was acquitted.</p>
+            <p>
+               <hi>Edward Oden</hi> was Indicted for Stealing Linnen, Pewter and other things in <hi>White-Chappel,</hi> on the 7th Inſtant, from one <hi>Iames Willit,</hi> of which upon Try<g ref="char:EOLhyphen"/>al, the Proof being poſitive, he was convicted.</p>
+            <p>A Second Indictment was Exhibited againſt <hi>Iohn Clarke,</hi> to which he plea<g ref="char:EOLhyphen"/>ded Guilty.</p>
+            <p>A Girl of about Thirteen Years of Age, was likewiſe Tryed for Shop-lift<g ref="char:EOLhyphen"/>ing, which appearing upon Evidence that ſome part of the Goods were found upon her; ſhe was found Guilty.</p>
+            <pb n="4" facs="tcp:152747:3"/>
+            <p>
+               <hi>Iohn Price</hi> was this morning brought into Court, as having formerly re<g ref="char:EOLhyphen"/>fuſed to plead, and upon that occaſion ordered to the Preſs, but after ſome perſwaſions, he pleaded <hi>Not Guilty,</hi> but it being proved againſt him he was Burnt in the Hand.</p>
+            <p>
+               <hi>Iohn Amos</hi> was Indicted for Robbing <hi>Richard West</hi> of Fifty pounds in Silver, and Seaven or Eight pieces of Gold; it being Evidently pro<g ref="char:EOLhyphen"/>ved that entered the Houſe, and there opening a Trunk or Desk, took out the Moneys, ſome of it being found in his Cuſtody, whereupon he was found Guilty, and Burnt in the hand.</p>
+            <p>
+               <hi>Elizabeth Brown</hi> being Tryed for Stealing a Diamond Ring, a plain one, which ſhe ſold to a Goldſmith in the <hi>Strand</hi> for a conſiderable value, ſhe was found Guilty, but ſhe not being above Twelve Years of Age, the Court took pitty of her, and upon conſideration ſet her by for Tran<g ref="char:EOLhyphen"/>ſportation.</p>
+            <p>
+               <hi>After this, the Court proceeded to give Sentence upon</hi> John Clark, <hi>convict<g ref="char:EOLhyphen"/>ed for a Fellony and Burghlary, and</hi> John Maiden, <hi>against whom there was ſeveral Indictments, they having been both Burnt in the Hand formerly.</hi>
+            </p>
+            <p>Eleven were Burnt in the Hand: Three to be Whip'd: Two to be Tranſported: And One Fin'd Twenty Marks as being found Guilty of a Treſpaſs.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Printed for</hi> T: Benskin, <hi>in</hi> St. Brides-Church Yard: 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
